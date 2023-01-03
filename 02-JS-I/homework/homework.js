@@ -9,6 +9,8 @@ const nuevoNum = null;
 // Crea una variable booleana:
 const nuevoBool = null;
 
+//TS1989
+
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
 
